@@ -1,0 +1,15 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "adminUsername": {
+      "value": "local_admin"
+    },   
+    "vmName": {
+      "value": "fgh-test2"
+    },
+    "subnetRef": {
+      "value": "/subscriptions/d99acfdf-ae62-48d0-b2b3-c953601fea9d/resourceGroups/app1-ne/providers/Microsoft.Network/virtualNetworks/app1/subnets/Subnet1"
+    }
+  }
+}
