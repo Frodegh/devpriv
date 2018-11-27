@@ -1,5 +1,5 @@
 
-> ## [JSON](http://VG:NO/) .
+> ## [JSON](http://VG.NO/) .
 > 1. JavaScript Object Natation
 >>  Based on a subscript of javaScript
 >>  Json has replaced XML
